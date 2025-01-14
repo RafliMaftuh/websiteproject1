@@ -7,3 +7,13 @@
 .footer {
     padding: 20px 0;
 }
+.footer-link {
+    display: inline;
+    justify-content: center;
+    gap: 20px;
+    color: white;
+}
+
+.footer-link:hover {
+    color: orange;
+}
